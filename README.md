@@ -27,3 +27,9 @@ I'ᴍ ᴀ Pʏᴛʜᴏɴ Lᴏᴠᴇʀ..
 
 <br />
 <br />
+
+<h4 align="center"><b>Mʏ Sᴛᴀᴛᴜs💛</b></h4>
+
+![SHUBU Git Stats](https://github-readme-stats.vercel.app/api?username=I-BOTS-PRODUCTIOM&include_all_commits=true&count_private=true&theme=highcontrast)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I-BOTS-PRODUCTION&layout=compact&theme=radical)](https://github.com/I-BOTS-PRODUCTION)
