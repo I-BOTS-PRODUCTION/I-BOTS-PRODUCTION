@@ -8,4 +8,4 @@ Aɢᴇ = "18"
 Lɪᴠɪɴɢ_Cᴏᴜɴᴛʀʏ = "🇮🇳"
 
 
-<p align="center"><a href="ɪ ʙᴏᴛꜱ ꜱᴜᴩᴩᴏʀᴛ=https://t.me/ibotssupport"> <img src="https://img.shields.io/badge/-I%20Bots%20Support-blue?style=for-the-badge&logo=Telegram" width="220" height="38.45"/></a></p>
+<a href="https://t.me/ibotssupport"><img src="https://img.shields.io/badge/Join-Group%20Support-black.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/ibotsupdates"><img src="https://img.shields.io/badge/Join-Updates%20Channel-black.svg?style=for-the-badge&logo=Telegram"></a>
