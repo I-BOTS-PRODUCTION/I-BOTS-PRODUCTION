@@ -1,4 +1,4 @@
-⚡ Hɪ Gᴜʏs ⚡
+### ⚡ Hɪ Gᴜʏs ⚡
 
 
 Tʜɪs ɪs I Bᴏᴛs Pʀᴏᴅᴜᴄᴛɪᴏɴ Cᴏ. 
@@ -32,7 +32,7 @@ Wᴇ Aʀᴇ Sᴛɪʟʟ Lᴇᴀʀɴɪɴɢ Gɪᴛ & Gɪᴛʜᴜʙ...
 <br />
 <br />
 
-<h4 align="center"><b>Mʏ Sᴛᴀᴛᴜs💛</b></h4>
+<h4 align="center"><b>Oᴜʀ Gɪᴛʜᴜʙ Sᴛᴀᴛᴜs💛</b></h4>
 
 ![I-BOTS-PRODUCTION Github Status](https://github-readme-stats.vercel.app/api?username=I-BOTS-PRODUCTION&include_all_commits=true&count_private=true&theme=highcontrast)
 
