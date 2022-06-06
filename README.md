@@ -30,6 +30,6 @@ I'ᴍ ᴀ Pʏᴛʜᴏɴ Lᴏᴠᴇʀ..
 
 <h4 align="center"><b>Mʏ Sᴛᴀᴛᴜs💛</b></h4>
 
-![I-BOTS-PRODUCTION Github Status](https://github-readme-stats.vercel.app/api?username=I-BOTS-PRODUCTIOM&include_all_commits=true&count_private=true&theme=highcontrast)
+![I-BOTS-PRODUCTION Github Status](https://github-readme-stats.vercel.app/api?username=I-BOTS-PRODUCTION&include_all_commits=true&count_private=true&theme=highcontrast)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I-BOTS-PRODUCTION&layout=compact&theme=radical)](https://github.com/I-BOTS-PRODUCTION)
