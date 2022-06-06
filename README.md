@@ -3,20 +3,20 @@
 
 <b> Tʜɪs ɪs I Bᴏᴛs Pʀᴏᴅᴜᴄᴛɪᴏɴ Cᴏ. <b>
 
-### Wᴇ Aʀᴇ Mᴀɪɴʟʏ Cᴏɴᴄᴇɴᴛʀᴀᴛɪɴɢ Iɴ Bᴜɪʟᴅɪɴɢ Bᴏᴛs 
-Fᴏʀ Tᴇʟᴇɢʀᴀᴍ Tᴏ Mᴀɴᴀɢᴇ Gʀᴏᴜᴘs Aɴᴅ 
-Tᴏ Pʟᴀʏ Mᴜsɪᴄ Iɴ Vᴏɪᴄᴇ Cʜᴀᴛs
+<b> Wᴇ Aʀᴇ Mᴀɪɴʟʏ Cᴏɴᴄᴇɴᴛʀᴀᴛɪɴɢ Iɴ Bᴜɪʟᴅɪɴɢ Bᴏᴛs <b>
+<b> Fᴏʀ Tᴇʟᴇɢʀᴀᴍ Tᴏ Mᴀɴᴀɢᴇ Gʀᴏᴜᴘs Aɴᴅ <b>
+<b> Tᴏ Pʟᴀʏ Mᴜsɪᴄ Iɴ Vᴏɪᴄᴇ Cʜᴀᴛs<b>
 
 
-### Lɪᴠɪɴɢ_Cᴏᴜɴᴛʀʏ = "🇮🇳","🇦🇪","🇺🇸"
+<b> Lɪᴠɪɴɢ_Cᴏᴜɴᴛʀʏ = "🇮🇳","🇦🇪","🇺🇸" <b>
 
 
 
 <a href="https://t.me/ibotssupport"><img src="https://img.shields.io/badge/Join-Group%20Support-black.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/ibotsupdates"><img src="https://img.shields.io/badge/Join-Updates%20Channel-black.svg?style=for-the-badge&logo=Telegram"></a>
 
-### Wᴇ Aʀᴇ Sᴛɪʟʟ Lᴇᴀʀɴɪɴɢ Gɪᴛ & Gɪᴛʜᴜʙ...
+<b> Wᴇ Aʀᴇ Sᴛɪʟʟ Lᴇᴀʀɴɪɴɢ Gɪᴛ & Gɪᴛʜᴜʙ...<b>
 
-### Pʏᴛʜᴏɴ Lᴏᴠᴇʀ 💓💓..
+<b> Pʏᴛʜᴏɴ Lᴏᴠᴇʀs 💓💓..<b>
 
 
 
